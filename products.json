@@ -1,0 +1,68 @@
+[
+    {
+      "status": true,
+      "title": "Remera celeste",
+      "description": "Ropa",
+      "price": 12900,
+      "stock": 200,
+      "code": "Code001",
+      "category": "A",
+      "thumbnails": "https://domain.com",
+      "id": 1
+    },
+    {
+      "status": true,
+      "title": "Cinturon marron",
+      "description": "Accesorios",
+      "price": 5620,
+      "stock": 300,
+      "code": "Code002",
+      "category": "B",
+      "thumbnails": "https://domain.com",
+      "id": 2
+    },
+    {
+      "status": true,
+      "title": "Buzo negro",
+      "description": "Ropa",
+      "price": 11900,
+      "stock": 250,
+      "code": "Code003",
+      "category": "C",
+      "thumbnails": "https://domain.com",
+      "id": 3
+    },
+    {
+      "status": true,
+      "title": "Gorra",
+      "description": "Accesorios",
+      "price": 7500,
+      "stock": 300,
+      "code": "Code004",
+      "category": "B",
+      "thumbnails": "https://domain.com",
+      "id": 4
+    },
+    {
+      "status": true,
+      "title": "Remera negra bordada",
+      "description": "Ropa",
+      "price": 15000,
+      "stock": 400,
+      "code": "Code005",
+      "category": "A",
+      "thumbnails": "https://domain.com",
+      "id": 5
+    },
+    {
+      "status": true,
+      "title": "Mochila",
+      "description": "Accesorios",
+      "price": 35300,
+      "stock": 200,
+      "code": "Code006",
+      "category": "D",
+      "thumbnails": "https://domain.com",
+      "id": 6
+    }
+  ]
